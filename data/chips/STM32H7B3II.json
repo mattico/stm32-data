@@ -8902,6 +8902,11 @@
                 {
                     "name": "USB_OTG_HS",
                     "address": 1074003968,
+                    "registers": {
+                        "kind": "otghs",
+                        "version": "v1",
+                        "block": "OTG_HS"
+                    },
                     "pins": [
                         {
                             "pin": "PA3",

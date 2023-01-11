@@ -7328,6 +7328,11 @@
                 {
                     "name": "USB_OTG_FS",
                     "address": 1074266112,
+                    "registers": {
+                        "kind": "otgfs",
+                        "version": "v1",
+                        "block": "OTG_FS"
+                    },
                     "pins": [
                         {
                             "pin": "PA8",
@@ -7388,6 +7393,11 @@
                 {
                     "name": "USB_OTG_HS",
                     "address": 1074003968,
+                    "registers": {
+                        "kind": "otghs",
+                        "version": "v1",
+                        "block": "OTG_HS"
+                    },
                     "pins": [
                         {
                             "pin": "PA3",
@@ -15205,6 +15215,11 @@
                 {
                     "name": "USB_OTG_FS",
                     "address": 1074266112,
+                    "registers": {
+                        "kind": "otgfs",
+                        "version": "v1",
+                        "block": "OTG_FS"
+                    },
                     "pins": [
                         {
                             "pin": "PA8",
@@ -15265,6 +15280,11 @@
                 {
                     "name": "USB_OTG_HS",
                     "address": 1074003968,
+                    "registers": {
+                        "kind": "otghs",
+                        "version": "v1",
+                        "block": "OTG_HS"
+                    },
                     "pins": [
                         {
                             "pin": "PA3",

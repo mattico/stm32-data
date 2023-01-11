@@ -197,8 +197,10 @@ perimap = [
 
     # USB OTG
     ('.*:USB_OTG_FS:otgfs1_v1_.*', ('otgfs', 'v1', 'OTG_FS')),
+    ('.*:USB_OTG_FS:otgfs1_v2_.*', ('otgfs', 'v1', 'OTG_FS')),
     ('.*:USB_OTG_FS:otgfs1_v3_.*', ('otgfs', 'v1', 'OTG_FS')),
     ('.*:USB_OTG_HS:otghs1_v1_.*', ('otghs', 'v1', 'OTG_HS')),
+    ('.*:USB_OTG_HS:otghs1_v2_.*', ('otghs', 'v1', 'OTG_HS')),
 
     ('STM32F0.*:RCC:.*', ('rcc', 'f0', 'RCC')),
     ('STM32F100.*:RCC:.*', ('rcc', 'f100', 'RCC')),
@@ -382,7 +384,7 @@ def lookup_address(defines, name, d):
         return addr
 
 
-@functools.cache
+@functools.lru_cache(None)
 def match_peri(peri):
     for r, block in perimap:
         if re.match('^' + r + '$', peri):
