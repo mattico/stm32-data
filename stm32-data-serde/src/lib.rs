@@ -55,6 +55,7 @@ pub mod chip {
         pub r#type: String,
         pub title: String,
         pub name: String,
+        pub display_name: String,
         pub url: String,
     }
 

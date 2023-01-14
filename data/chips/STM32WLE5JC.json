@@ -40,174 +40,203 @@
             "type": "reference_manual",
             "title": "STM32WLEx advanced Arm-based 32-bit MCUs with sub-GHz radio solution",
             "name": "DM00530369",
+            "display_name": "RM0461",
             "url": "http://www.st.com/resource/en/reference_manual/DM00530369.pdf"
         },
         {
             "type": "programming_manual",
             "title": "STM32 Cortex-M4 MCUs and MPUs programming manual",
             "name": "DM00046982",
+            "display_name": "PM0214",
             "url": "http://www.st.com/resource/en/programming_manual/DM00046982.pdf"
         },
         {
             "type": "programming_manual",
             "title": "Cortex-M0+ programming manual for STM32L0, STM32G0, STM32WL and STM32WB Series",
             "name": "DM00104451",
+            "display_name": "PM0223",
             "url": "http://www.st.com/resource/en/programming_manual/DM00104451.pdf"
         },
         {
             "type": "datahseet",
             "title": "Multiprotocol LPWAN 32-bit Arm Cortex-M4 MCUs, LoRa, (G)FSK, (G)MSK, BPSK, up to 256KB Flash, 64KB SRAM",
             "name": "DM00648230",
+            "display_name": "DS13105",
             "url": "http://www.st.com/resource/en/datasheet/DM00648230.pdf"
         },
         {
             "type": "errata_sheet",
             "title": "STM32WLE5xx and STM32WLE4xx device errata",
             "name": "DM00660735",
+            "display_name": "ES0506",
             "url": "http://www.st.com/resource/en/errata_sheet/DM00660735.pdf"
         },
         {
             "type": "application_note",
             "title": "STM32 microcontroller system memory boot mode",
             "name": "CD00167594",
+            "display_name": "AN2606",
             "url": "http://www.st.com/resource/en/application_note/CD00167594.pdf"
         },
         {
             "type": "application_note",
             "title": "How to get the best ADC accuracy in STM32 microcontrollers",
             "name": "CD00211314",
+            "display_name": "AN2834",
             "url": "http://www.st.com/resource/en/application_note/CD00211314.pdf"
         },
         {
             "type": "application_note",
             "title": "Audio and waveform generation using the DAC in STM32 products",
             "name": "CD00259245",
+            "display_name": "AN3126",
             "url": "http://www.st.com/resource/en/application_note/CD00259245.pdf"
         },
         {
             "type": "application_note",
             "title": "USART protocol used in the STM32 bootloader",
             "name": "CD00264342",
+            "display_name": "AN3155",
             "url": "http://www.st.com/resource/en/application_note/CD00264342.pdf"
         },
         {
             "type": "application_note",
             "title": "How to implement a vocoder solution using STM32 microcontrollers",
             "name": "DM00073742",
+            "display_name": "AN4229",
             "url": "http://www.st.com/resource/en/application_note/DM00073742.pdf"
         },
         {
             "type": "application_note",
             "title": "SPI protocol used in the STM32 bootloader",
             "name": "DM00081379",
+            "display_name": "AN4286",
             "url": "http://www.st.com/resource/en/application_note/DM00081379.pdf"
         },
         {
             "type": "application_note",
             "title": "Virtually increasing the number of serial communication peripherals in STM32 applications",
             "name": "DM00160482",
+            "display_name": "AN4655",
             "url": "http://www.st.com/resource/en/application_note/DM00160482.pdf"
         },
         {
             "type": "application_note",
             "title": "Handling of soft errors in STM32 applications",
             "name": "DM00220769",
+            "display_name": "AN4750",
             "url": "http://www.st.com/resource/en/application_note/DM00220769.pdf"
         },
         {
             "type": "application_note",
             "title": "Using the hardware real-time clock (RTC) and the tamper management unit (TAMP) with STM32 microcontrollers",
             "name": "DM00226326",
+            "display_name": "AN4759",
             "url": "http://www.st.com/resource/en/application_note/DM00226326.pdf"
         },
         {
             "type": "application_note",
             "title": "General-purpose timer cookbook for STM32 microcontrollers",
             "name": "DM00236305",
+            "display_name": "AN4776",
             "url": "http://www.st.com/resource/en/application_note/DM00236305.pdf"
         },
         {
             "type": "application_note",
             "title": "High-speed SI simulations using IBIS and board-level simulations using HyperLynx SI on STM32 MCUs and MPUs",
             "name": "DM00257177",
+            "display_name": "AN4803",
             "url": "http://www.st.com/resource/en/application_note/DM00257177.pdf"
         },
         {
             "type": "application_note",
             "title": "EEPROM emulation techniques and software for STM32 microcontrollers",
             "name": "DM00311483",
+            "display_name": "AN4894",
             "url": "http://www.st.com/resource/en/application_note/DM00311483.pdf"
         },
         {
             "type": "application_note",
             "title": "STM32 GPIO configuration for hardware settings and low-power consumption",
             "name": "DM00315319",
+            "display_name": "AN4899",
             "url": "http://www.st.com/resource/en/application_note/DM00315319.pdf"
         },
         {
             "type": "application_note",
             "title": "Interfacing PDM digital microphones using STM32 MCUs and MPUs",
             "name": "DM00380469",
+            "display_name": "AN5027",
             "url": "http://www.st.com/resource/en/application_note/DM00380469.pdf"
         },
         {
             "type": "application_note",
             "title": "Thermal management guidelines for STM32 applications",
             "name": "DM00395696",
+            "display_name": "AN5036",
             "url": "http://www.st.com/resource/en/application_note/DM00395696.pdf"
         },
         {
             "type": "application_note",
             "title": "Precise HSE frequency and startup time tuning for STM32 wireless MCUs",
             "name": "DM00403796",
+            "display_name": "AN5042",
             "url": "http://www.st.com/resource/en/application_note/DM00403796.pdf"
         },
         {
             "type": "application_note",
             "title": "Introduction to STM32 microcontrollers security",
             "name": "DM00493651",
+            "display_name": "AN5156",
             "url": "http://www.st.com/resource/en/application_note/DM00493651.pdf"
         },
         {
             "type": "application_note",
             "title": "USB Type-C Power Delivery using STM32 MCUs and MPUs",
             "name": "DM00536349",
+            "display_name": "AN5225",
             "url": "http://www.st.com/resource/en/application_note/DM00536349.pdf"
         },
         {
             "type": "application_note",
             "title": "Optimized RF board layout for STM32WL Series",
             "name": "DM00660594",
+            "display_name": "AN5407",
             "url": "http://www.st.com/resource/en/application_note/DM00660594.pdf"
         },
         {
             "type": "application_note",
             "title": "Migrating from STM32L0, STM32L1, and STM32L4 Series associated with SX12xx transceivers to STM32WL Series microcontrollers",
             "name": "DM00660597",
+            "display_name": "AN5408",
             "url": "http://www.st.com/resource/en/application_note/DM00660597.pdf"
         },
         {
             "type": "application_note",
             "title": "STM32Cube MCU Package examples for STM32WL Series",
             "name": "DM00660670",
+            "display_name": "AN5409",
             "url": "http://www.st.com/resource/en/application_note/DM00660670.pdf"
         },
         {
             "type": "application_note",
             "title": "RF matching network design guide for STM32WL Series",
             "name": "DM00690797",
+            "display_name": "AN5457",
             "url": "http://www.st.com/resource/en/application_note/DM00690797.pdf"
         },
         {
             "type": "application_note",
             "title": "Enhanced methods to handle SPI communication on STM32 devices",
             "name": "DM00725181",
+            "display_name": "AN5543",
             "url": "http://www.st.com/resource/en/application_note/DM00725181.pdf"
         },
         {
             "type": "application_note",
             "title": "Ultra-low-power features of STM32WL Series microcontrollers",
             "name": "DM00739353",
+            "display_name": "AN5568",
             "url": "http://www.st.com/resource/en/application_note/DM00739353.pdf"
         }
     ],

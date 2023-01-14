@@ -80,252 +80,294 @@
             "type": "reference_manual",
             "title": "STM32H723/733, STM32H725/735 and STM32H730 Value line advanced Arm-based 32-bit MCUs",
             "name": "DM00603761",
+            "display_name": "RM0468",
             "url": "http://www.st.com/resource/en/reference_manual/DM00603761.pdf"
         },
         {
             "type": "programming_manual",
             "title": "STM32F7 Series and STM32H7 Series Cortex-M7 processor programming manual",
             "name": "DM00237416",
+            "display_name": "PM0253",
             "url": "http://www.st.com/resource/en/programming_manual/DM00237416.pdf"
         },
         {
             "type": "datahseet",
             "title": "32-bit Arm Cortex-M7 550 MHz MCU, up to 1 MB Flash memory, 564 KB RAM, 35 comms peripherals and analog interfaces",
             "name": "DM00701017",
+            "display_name": "DS13311",
             "url": "http://www.st.com/resource/en/datasheet/DM00701017.pdf"
         },
         {
             "type": "errata_sheet",
             "title": "STM32H72xx/73xx device errata",
             "name": "DM00625312",
+            "display_name": "ES0491",
             "url": "http://www.st.com/resource/en/errata_sheet/DM00625312.pdf"
         },
         {
             "type": "application_note",
             "title": "STM32 microcontroller system memory boot mode",
             "name": "CD00167594",
+            "display_name": "AN2606",
             "url": "http://www.st.com/resource/en/application_note/CD00167594.pdf"
         },
         {
             "type": "application_note",
             "title": "How to get the best ADC accuracy in STM32 microcontrollers",
             "name": "CD00211314",
+            "display_name": "AN2834",
             "url": "http://www.st.com/resource/en/application_note/CD00211314.pdf"
         },
         {
             "type": "application_note",
             "title": "Audio and waveform generation using the DAC in STM32 products",
             "name": "CD00259245",
+            "display_name": "AN3126",
             "url": "http://www.st.com/resource/en/application_note/CD00259245.pdf"
         },
         {
             "type": "application_note",
             "title": "USART protocol used in the STM32 bootloader",
             "name": "CD00264342",
+            "display_name": "AN3155",
             "url": "http://www.st.com/resource/en/application_note/CD00264342.pdf"
         },
         {
             "type": "application_note",
             "title": "USB DFU protocol used in the STM32 bootloader",
             "name": "CD00264379",
+            "display_name": "AN3156",
             "url": "http://www.st.com/resource/en/application_note/CD00264379.pdf"
         },
         {
             "type": "application_note",
             "title": "STM32 cross-series timer overview",
             "name": "DM00042534",
+            "display_name": "AN4013",
             "url": "http://www.st.com/resource/en/application_note/DM00042534.pdf"
         },
         {
             "type": "application_note",
             "title": "I2C protocol used in the STM32 bootloader",
             "name": "DM00072315",
+            "display_name": "AN4221",
             "url": "http://www.st.com/resource/en/application_note/DM00072315.pdf"
         },
         {
             "type": "application_note",
             "title": "How to implement a vocoder solution using STM32 microcontrollers",
             "name": "DM00073742",
+            "display_name": "AN4229",
             "url": "http://www.st.com/resource/en/application_note/DM00073742.pdf"
         },
         {
             "type": "application_note",
             "title": "STM32 microcontroller random number generation validation using the NIST statistical test suite",
             "name": "DM00073853",
+            "display_name": "AN4230",
             "url": "http://www.st.com/resource/en/application_note/DM00073853.pdf"
         },
         {
             "type": "application_note",
             "title": "SPI protocol used in the STM32 bootloader",
             "name": "DM00081379",
+            "display_name": "AN4286",
             "url": "http://www.st.com/resource/en/application_note/DM00081379.pdf"
         },
         {
             "type": "application_note",
             "title": "Extending the DAC performance of STM32 microcontrollers",
             "name": "DM00129215",
+            "display_name": "AN4566",
             "url": "http://www.st.com/resource/en/application_note/DM00129215.pdf"
         },
         {
             "type": "application_note",
             "title": "Minimization of power consumption using LPUART for STM32 microcontrollers",
             "name": "DM00151811",
+            "display_name": "AN4635",
             "url": "http://www.st.com/resource/en/application_note/DM00151811.pdf"
         },
         {
             "type": "application_note",
             "title": "Virtually increasing the number of serial communication peripherals in STM32 applications",
             "name": "DM00160482",
+            "display_name": "AN4655",
             "url": "http://www.st.com/resource/en/application_note/DM00160482.pdf"
         },
         {
             "type": "application_note",
             "title": "Handling of soft errors in STM32 applications",
             "name": "DM00220769",
+            "display_name": "AN4750",
             "url": "http://www.st.com/resource/en/application_note/DM00220769.pdf"
         },
         {
             "type": "application_note",
             "title": "Using the hardware real-time clock (RTC) and the tamper management unit (TAMP) with STM32 microcontrollers",
             "name": "DM00226326",
+            "display_name": "AN4759",
             "url": "http://www.st.com/resource/en/application_note/DM00226326.pdf"
         },
         {
             "type": "application_note",
             "title": "General-purpose timer cookbook for STM32 microcontrollers",
             "name": "DM00236305",
+            "display_name": "AN4776",
             "url": "http://www.st.com/resource/en/application_note/DM00236305.pdf"
         },
         {
             "type": "application_note",
             "title": "High-speed SI simulations using IBIS and board-level simulations using HyperLynx SI on STM32 MCUs and MPUs",
             "name": "DM00257177",
+            "display_name": "AN4803",
             "url": "http://www.st.com/resource/en/application_note/DM00257177.pdf"
         },
         {
             "type": "application_note",
             "title": "Managing memory protection unit in STM32 MCUs",
             "name": "DM00272912",
+            "display_name": "AN4838",
             "url": "http://www.st.com/resource/en/application_note/DM00272912.pdf"
         },
         {
             "type": "application_note",
             "title": "Level 1 cache on STM32F7 Series and STM32H7 Series",
             "name": "DM00272913",
+            "display_name": "AN4839",
             "url": "http://www.st.com/resource/en/application_note/DM00272913.pdf"
         },
         {
             "type": "application_note",
             "title": "STM32 GPIO configuration for hardware settings and low-power consumption",
             "name": "DM00315319",
+            "display_name": "AN4899",
             "url": "http://www.st.com/resource/en/application_note/DM00315319.pdf"
         },
         {
             "type": "application_note",
             "title": "STM32 USART automatic baud rate detection",
             "name": "DM00327191",
+            "display_name": "AN4908",
             "url": "http://www.st.com/resource/en/application_note/DM00327191.pdf"
         },
         {
             "type": "application_note",
             "title": "STM32 microcontroller debug toolbox",
             "name": "DM00354244",
+            "display_name": "AN4989",
             "url": "http://www.st.com/resource/en/application_note/DM00354244.pdf"
         },
         {
             "type": "application_note",
             "title": "Getting started with sigma-delta digital interface on applicable STM32 microcontrollers",
             "name": "DM00354333",
+            "display_name": "AN4990",
             "url": "http://www.st.com/resource/en/application_note/DM00354333.pdf"
         },
         {
             "type": "application_note",
             "title": "Interfacing PDM digital microphones using STM32 MCUs and MPUs",
             "name": "DM00380469",
+            "display_name": "AN5027",
             "url": "http://www.st.com/resource/en/application_note/DM00380469.pdf"
         },
         {
             "type": "application_note",
             "title": "STM32Cube MCU Package examples for STM32H7 Series",
             "name": "DM00393275",
+            "display_name": "AN5033",
             "url": "http://www.st.com/resource/en/application_note/DM00393275.pdf"
         },
         {
             "type": "application_note",
             "title": "Thermal management guidelines for STM32 applications",
             "name": "DM00395696",
+            "display_name": "AN5036",
             "url": "http://www.st.com/resource/en/application_note/DM00395696.pdf"
         },
         {
             "type": "application_note",
             "title": "Octo-SPI interface on STM32 microcontrollers",
             "name": "DM00407776",
+            "display_name": "AN5050",
             "url": "http://www.st.com/resource/en/application_note/DM00407776.pdf"
         },
         {
             "type": "application_note",
             "title": "Receiving S/PDIF audio stream with the STM32F4/F7/H7 Series",
             "name": "DM00431633",
+            "display_name": "AN5073",
             "url": "http://www.st.com/resource/en/application_note/DM00431633.pdf"
         },
         {
             "type": "application_note",
             "title": "Introduction to STM32 microcontrollers security",
             "name": "DM00493651",
+            "display_name": "AN5156",
             "url": "http://www.st.com/resource/en/application_note/DM00493651.pdf"
         },
         {
             "type": "application_note",
             "title": "Getting started with STM32H7 Series SDMMC host controller",
             "name": "DM00525510",
+            "display_name": "AN5200",
             "url": "http://www.st.com/resource/en/application_note/DM00525510.pdf"
         },
         {
             "type": "application_note",
             "title": "STM32 DMAMUX: the DMA request router",
             "name": "DM00535045",
+            "display_name": "AN5224",
             "url": "http://www.st.com/resource/en/application_note/DM00535045.pdf"
         },
         {
             "type": "application_note",
             "title": "USB Type-C Power Delivery using STM32 MCUs and MPUs",
             "name": "DM00536349",
+            "display_name": "AN5225",
             "url": "http://www.st.com/resource/en/application_note/DM00536349.pdf"
         },
         {
             "type": "application_note",
             "title": "STM32H7 Series lifetime estimates",
             "name": "DM00622045",
+            "display_name": "AN5337",
             "url": "http://www.st.com/resource/en/application_note/DM00622045.pdf"
         },
         {
             "type": "application_note",
             "title": "Error correction code (ECC) management for internal memories protection on STM32H7 Series",
             "name": "DM00623136",
+            "display_name": "AN5342",
             "url": "http://www.st.com/resource/en/application_note/DM00623136.pdf"
         },
         {
             "type": "application_note",
             "title": "FDCAN peripheral on STM32 devices",
             "name": "DM00625700",
+            "display_name": "AN5348",
             "url": "http://www.st.com/resource/en/application_note/DM00625700.pdf"
         },
         {
             "type": "application_note",
             "title": "FDCAN protocol used in the STM32 bootloader",
             "name": "DM00660346",
+            "display_name": "AN5405",
             "url": "http://www.st.com/resource/en/application_note/DM00660346.pdf"
         },
         {
             "type": "application_note",
             "title": "Getting started with STM32H723/733, STM32H725/735 and STM32H730 Value Line hardware development",
             "name": "DM00663674",
+            "display_name": "AN5419",
             "url": "http://www.st.com/resource/en/application_note/DM00663674.pdf"
         },
         {
             "type": "application_note",
             "title": "Enhanced methods to handle SPI communication on STM32 devices",
             "name": "DM00725181",
+            "display_name": "AN5543",
             "url": "http://www.st.com/resource/en/application_note/DM00725181.pdf"
         }
     ],

@@ -13,8 +13,8 @@ mod mcufinder {
     pub struct File {
         #[serde(rename = "URL")]
         pub url: String,
-        // #[serde(rename = "displayName")]
-        // pub display_name: String,
+        #[serde(rename = "displayName")]
+        pub display_name: String,
         pub id_file: String,
         pub name: String,
         // #[serde(rename = "related_MCU_count")]
@@ -48,6 +48,7 @@ impl From<mcufinder::File> for stm32_data_serde::chip::Doc {
     fn from(file: mcufinder::File) -> Self {
         Self {
             name: file.name,
+            display_name: file.display_name,
             title: file.title,
             url: file.url,
             r#type: parse_document_type(&file.r#type).to_string(),
